@@ -6,8 +6,9 @@ In this Project, you'll scrape the novel Moby Dick from the website Project Gute
 
 To complete this project, you need to know how to import web data into python and how to work with natural language text. Before starting this project its recommend that you have completed the knowledges of :
 
-i) Importing Data in Python (Part 2).
-ii) Natural Language Processing Fundamentals in Python.
+i) Importing Data in Python (Part 2)
+
+ii) Natural Language Processing Fundamentals in Python
 
 How to Open notebook.ipynb Project File 
 =======================================  
